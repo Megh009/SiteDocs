@@ -1,1 +1,17 @@
 Visited Site and crated maps
+Initialize
+git init
+
+Adding
+git add site.txt
+
+Lock
+git commit
+
+
+Pusing:
+git push -u origin master
+
+
+
+
